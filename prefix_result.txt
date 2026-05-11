@@ -1,0 +1,22 @@
+First 20 prefix sums:
+prefix[0] = 1
+prefix[1] = 3
+prefix[2] = 6
+prefix[3] = 10
+prefix[4] = 15
+prefix[5] = 21
+prefix[6] = 28
+prefix[7] = 36
+prefix[8] = 45
+prefix[9] = 55
+prefix[10] = 66
+prefix[11] = 78
+prefix[12] = 91
+prefix[13] = 105
+prefix[14] = 120
+prefix[15] = 136
+prefix[16] = 153
+prefix[17] = 171
+prefix[18] = 190
+prefix[19] = 210
+Total sum = 52952176
